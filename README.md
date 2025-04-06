@@ -122,3 +122,14 @@ If you experience issues connecting to the MCP server from Cursor:
 # How to use the memory bank
 
 B1: Initialize the memory bank
+
+B2: How to run this project
+
+B2.1: Install dependencies
+$ pnpm install
+
+B2.2: Run the project
+$ pnpm dev
+
+B2.3: Build the project
+$ pnpm build

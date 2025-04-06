@@ -1,4 +1,6 @@
 # Memory Bank
+.next/
+.nextjs/
 README-orig.md
 public/
 src/
@@ -7,6 +9,8 @@ jsconfig.json
 package-lock.json
 package.json
 website images/
+node_modules/
+pnpm-lock.yaml
 
 
 # Byte-compiled / optimized / DLL files
