@@ -1,3 +1,14 @@
+# Memory Bank
+README-orig.md
+public/
+src/
+.DS_Store
+jsconfig.json
+package-lock.json
+package.json
+website images/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
